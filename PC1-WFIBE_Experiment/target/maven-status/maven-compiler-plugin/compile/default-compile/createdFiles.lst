@@ -1,0 +1,5 @@
+com\wfibe\crypto\WFIBESystem$PublicParameters.class
+com\wfibe\crypto\WFIBESystem$SystemSetupResult.class
+com\wfibe\crypto\WFIBESystem$KeyGenResult.class
+com\wfibe\crypto\WFIBESystem$SecretKey.class
+com\wfibe\crypto\WFIBESystem.class
